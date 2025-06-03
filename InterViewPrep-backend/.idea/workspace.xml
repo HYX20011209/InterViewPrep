@@ -7,43 +7,52 @@
     <list default="true" id="97472d07-3749-496e-9e91-08f4ee35e480" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionBankController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionBankQuestionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/mapper/QuestionBankMapper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/mapper/QuestionBankQuestionMapper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/mapper/QuestionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionAddRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionEditRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionQueryRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionUpdateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankAddRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankEditRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankQueryRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankUpdateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionAddRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionQueryRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionRemoveRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionUpdateRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/entity/Question.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/entity/QuestionBank.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/entity/QuestionBankQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionBankQuestionVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionBankVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionBankQuestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionBankService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionBankQuestionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionBankServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/QuestionBankMapper.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/QuestionBankQuestionMapper.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/QuestionMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/config/MyBatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/config/MyBatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionBankController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionBankController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionBankQuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionBankQuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/controller/QuestionController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/generate/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/generate/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/question/QuestionUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBank/QuestionBankUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/dto/questionBankQuestion/QuestionBankQuestionUpdateRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionBankQuestionVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionBankQuestionVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionBankVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionBankVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/model/vo/QuestionVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionBankQuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionBankQuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionBankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionBankService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionBankQuestionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionBankQuestionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionBankServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionBankServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hyx/InterViewPrep/service/impl/QuestionServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/TemplateController.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/TemplateController.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/TemplateService.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/TemplateService.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/TemplateServiceImpl.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/TemplateServiceImpl.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateAddRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateAddRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateEditRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateEditRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateQueryRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateQueryRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateUpdateRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateUpdateRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateVO.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateVO.java.ftl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,32 +88,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/hyx/Code/myprojects/InterViewPrep/InterViewPrep-backend/src/main/java/com/hyx/InterViewPrep",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "database.query.execution",
-    "spring.configuration.checksum": "0f4e97a386994489404f5e866c043b4b",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hyx/Code/myprojects/InterViewPrep/InterViewPrep-backend/src/main/java/com/hyx/InterViewPrep&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0f4e97a386994489404f5e866c043b4b&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
